@@ -20,8 +20,8 @@
 一種基於梯度提升決策樹（Gradient Boosting Decision Tree, GBDT）的機器學習演算法
 
 優點：
-1.能處理數值型資料與特徵重要性評估
-2.支援 early stopping，加速訓練過程
-3.對於非線性資料表現良好
+- 能處理數值型資料與特徵重要性評估  
+- 支援 early stopping，加速訓練過程  
+- 對於非線性資料表現良好 
 
 
