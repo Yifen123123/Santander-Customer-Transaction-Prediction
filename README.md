@@ -24,4 +24,9 @@
 - 支援 early stopping，加速訓練過程  
 - 對於非線性資料表現良好 
 
+## 🎨 可視化圖形
+- 直方圖（範例 var_0 特徵分布）
+- XGBoost 特徵重要性圖
+- Confusion Matrix 混淆矩陣
+- ROC 曲線圖
 
