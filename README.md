@@ -1,3 +1,5 @@
+## Python版本：Python 3.13.0
+
 ## 📊 數據來源
 
 本專案所使用的數據來自 [Kaggle - Santander Customer Transaction Prediction]
