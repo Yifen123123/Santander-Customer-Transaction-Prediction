@@ -16,7 +16,7 @@
 - 繪製模型特徵重要性與 ROC 曲線
 
 ## 📚 使用模型
-# 📌 XGBoost（二元分類）
+### 📌 XGBoost（二元分類）
 一種基於梯度提升決策樹（Gradient Boosting Decision Tree, GBDT）的機器學習演算法
 
 優點：
